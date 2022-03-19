@@ -8,3 +8,5 @@ sudo apt install -y xorriso
 sudo apt install -y grub-pc-bin
 sudo apt install -y grub-common
 sudo apt install -y qemu
+sudo apt install -y make
+sudo apt install -y qemu
